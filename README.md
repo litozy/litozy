@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rendy Ferdiansyah</h1>
 <h3 align="center">I'm a Software Developer who's always hungry for new knowledge. I've dabbled in various programming languages and I just can't get enough of anything related to technology, especially programming. It's my passion</h3>
 
-- 🌱 I’m currently learning **.NET Development**
-
 - 👯 I’m looking to collaborate on **freelance or projects mainly using golang.**
 
 - 📫 How to reach me **rendyf3r@gmail.com**
